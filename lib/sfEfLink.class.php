@@ -5,9 +5,8 @@
  * Class to redirect to another application.
  *
  * @package    sfEfLink
- * @subpackage 
  * @author     Yaismel Miranda Pons <yaismelmp@googlemail.com>
- * @version    1.2
+ * @version    1.1
  */
 class sfEfLink
 {
